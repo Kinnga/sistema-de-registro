@@ -2,5 +2,4 @@
 
 - Estado del proyecto: En construccion.
 - Este es un **primer ejemplo** de demarcacion
-> aqui hay una [pagina con los codigos mas frecuentes]
-> (https//:en.support.com/markdown-quick-reference/) Markdown
+> Aquí hay una [página con los códigos más frecuentes](https://en.support.wordprss.com/markdown-quick-reference/) Markdown
